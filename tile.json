@@ -2,8 +2,7 @@
 	"action" : {
 		"type": "url",
 		"text" : "Try this out",
-		"link": "http://bluemix.net",
-		"blahblah" : "IBM's Mobile App Builders"
+		"link": "http://bluemix.net"
 	},
 	"video" : "https://youtu.be/1JRjzNm4cUc",
 	"image" : "https://c1.staticflickr.com/1/337/19292650660_d4a829f9a2.jpg",
