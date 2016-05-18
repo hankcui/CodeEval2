@@ -1,10 +1,11 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Try this out",
-		"link": "http://bluemix.net"
+		"text" : "this is a sample action text",
+		"link": "www.google.com",
+		"description" : "this is alt text"
 	},
-	"video" : "https://youtu.be/1JRjzNm4cUc",
+	"video" : "https://youtu.be/1JRjzNm4cUc"
 	"image" : "https://c1.staticflickr.com/1/337/19292650660_d4a829f9a2.jpg",
-	"time" : "10 min"
+	"time" : "5min"
 }
