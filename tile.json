@@ -1,7 +1,7 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "this is a sample action text",
+		"text" : "Try Mobile App Builder",
 		"link": "https://appbuilder.ibmcloud.com/",
 		"description" : "this is alt text"
 	},
